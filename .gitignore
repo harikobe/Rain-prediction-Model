@@ -1,0 +1,7 @@
+datasets
+venv
+SVM.ipynb
+Regression.ipynb
+naive_bayes.ipynb
+decision_trees.ipynb
+.vscode
