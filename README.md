@@ -1,4 +1,4 @@
-# Weather Prediction Model
+# Rain Prediction Model
 
 ## Description
 
