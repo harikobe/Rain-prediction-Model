@@ -1,4 +1,4 @@
-# Weather Prediction Using Logistic Regression
+# Weather Prediction Model
 
 ## Description
 
