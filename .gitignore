@@ -2,6 +2,10 @@ datasets
 venv
 SVM.ipynb
 Regression.ipynb
-naive_bayes.ipynb
+logistic_regression.ipynb
 decision_trees.ipynb
 .vscode
+Notes
+
+
+
